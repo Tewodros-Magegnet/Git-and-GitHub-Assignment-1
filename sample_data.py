@@ -1,1 +1,1 @@
-print('This is sample data for Assignment 1')
+print('This is my sample data script')
