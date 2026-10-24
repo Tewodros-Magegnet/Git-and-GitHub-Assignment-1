@@ -1,4 +1,4 @@
-# Assignment 1: Git & GtHub
+# Assignment 1: Git & GitHub
 
 **Author:** Tewodros Magegnet
 
