@@ -1,4 +1,4 @@
-# Assignment 1: Git & GitHub
+# Student Grade Evaluation System
 
 **Author:** Tewodros Magegnet
 

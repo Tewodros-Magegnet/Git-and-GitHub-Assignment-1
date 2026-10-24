@@ -1,4 +1,4 @@
-print('This is sample data for Assignment 1')
+print('--- Student Grade Evaluation System ---')
 def get_letter_grade(score):
     if score >= 90:
         return "A+"
