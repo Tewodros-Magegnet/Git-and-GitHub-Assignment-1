@@ -1,5 +1,6 @@
-# Assignment 1: Git & GitHub
-# Assignment 1: Git & GitHub
+# Assignment 1: Git & GtHub
+
+**Author:** Tewodros Magegnet
 
 This project demonstrates my learning journey in Python programming, data organization, and version control using Git and GitHub.
 
